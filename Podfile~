@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+targe "LoveFreshBeen" do
+pod "SVProgressHUD"
+end
